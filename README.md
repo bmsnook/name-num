@@ -9,3 +9,5 @@ While I'm only about halfway through the class (there are about 2.5 weekends yet
 Once I get closer to the course completion and complete some other projects, I'll translate this from Python to Java.
 
 Incidentally, since this makes use of recursion, it wasn't really possible to _stop_ it from functioning past 2 billion (the extended use case described), nor do I see a reason to. I'm elated to see the script translate 1 trillion as "1 thousand billion". Adding additional period names (I discovered each group of three numbers is called a "period") would be trivial.
+
+There is work to be done.
