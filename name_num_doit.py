@@ -1,4 +1,4 @@
-#!/Users/bmsnook/anaconda3/bin/python
+#!/usr/local/bin/python3
 
 from name_num import name_num
 
